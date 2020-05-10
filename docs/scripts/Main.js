@@ -16,7 +16,14 @@ $(document).ready(function()  {
   
     $(".modal-close").click(function(){
         $(".modal").toggle().css("opacity", "0");
+        
     })
+
+
+
+
+// add javascript for sroll event here
+
 
 });
 
